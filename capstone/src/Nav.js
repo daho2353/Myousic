@@ -7,14 +7,8 @@ function Nav(){
         <nav>
             <h3> Discover M(you)sic </h3>
             <ul className="nav-links">
-            <Link to = "/profile">
-                <li> Profile </li>
-            </Link>
             <Link to = "/playlist">
-                <li> Daily Mix </li>
-            </Link>
-            <Link to = "/stats">
-                <li> Stats </li>
+                <li> Last Mix </li>
             </Link>
             </ul>
         </nav>

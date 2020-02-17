@@ -87,7 +87,7 @@ function Playlist(){
                     <td> Lorem Ipsum </td>
                 </tr>
             </table>
-            <button> Export playlist to Spotify</button>
+            <button> Export playlist to Youtube</button>
         </div>
     );
 }
